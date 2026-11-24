@@ -1,0 +1,17 @@
+{
+  "name": "Phoenix Ashnova",
+  "short_name": "PHANV",
+  "description": "Projeto experimental e independente em fase de pré-lançamento.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070504",
+  "theme_color": "#090604",
+  "icons": [
+    {
+      "src": "assets/phoenix-mark-adapted.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
