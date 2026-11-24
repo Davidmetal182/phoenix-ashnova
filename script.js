@@ -1,5 +1,11 @@
 const translations = {
   pt: {
+    followX: "Acompanhar no X",
+    channelsEyebrow: "COMUNIDADE",
+    channelsTitle: "Canais oficiais",
+    channelsLead: "Acompanhe os comunicados e o desenvolvimento do projeto.",
+    telegramPending: "Canal oficial ainda indisponível",
+
     htmlLang: "pt-BR",
     metaDescription: "Phoenix Ashnova (PHANV): projeto experimental e independente, em fase de pré-lançamento. Conheça a proposta, a transparência e os riscos.",
     ogDescription: "Projeto experimental e independente em fase de pré-lançamento.",
@@ -74,6 +80,12 @@ const translations = {
     footerRights: "Conteúdo informativo."
   },
   en: {
+    followX: "Follow on X",
+    channelsEyebrow: "COMMUNITY",
+    channelsTitle: "Official channels",
+    channelsLead: "Follow project announcements and development.",
+    telegramPending: "Official channel not yet available",
+
     htmlLang: "en",
     metaDescription: "Phoenix Ashnova (PHANV): an independent experimental project in its pre-launch phase. Explore the concept, transparency and risks.",
     ogDescription: "Independent experimental project currently in pre-launch.",
